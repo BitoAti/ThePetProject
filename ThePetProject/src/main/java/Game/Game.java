@@ -1,7 +1,9 @@
-package Game;
+package main.java.Game;
 
-import module.ChooseCharacter;
-import module.WelcomePage;
+
+
+import main.java.module.ChooseCharacter;
+import main.java.module.WelcomePage;
 
 import java.util.UUID;
 

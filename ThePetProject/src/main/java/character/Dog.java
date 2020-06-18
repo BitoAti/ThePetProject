@@ -1,4 +1,4 @@
-package character;
+package main.java.character;
 
 public class Dog extends Pet{
 

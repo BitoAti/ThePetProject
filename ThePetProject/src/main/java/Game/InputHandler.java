@@ -1,4 +1,4 @@
-package Game;
+package main.java.Game;
 
 import java.util.Scanner;
 
@@ -35,10 +35,10 @@ public class InputHandler {
     }
 
     public int characterNumber(){
-        System.out.print("Enter your character name (min 3 character): ");
+        System.out.print("Enter your character type (1:dog 2:cat): ");
         int number = input.nextInt();
         while(number < 1 || number > 3){
-            System.out.print("Enter your character name (min 3 character): ");
+            System.out.print("Enter your character type (1:dog 2:cat): ");
 
             number = input.nextInt();
         }

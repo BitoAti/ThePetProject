@@ -1,7 +1,8 @@
-package module;
+package main.java.module;
 
-import Game.InputHandler;
-import Game.OutputHandler;
+
+import main.java.Game.InputHandler;
+import main.java.Game.OutputHandler;
 
 public class Module {
     protected String moduleName;

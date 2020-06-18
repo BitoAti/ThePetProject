@@ -1,8 +1,9 @@
-package module;
+package main.java.module;
 
-import character.Cat;
-import character.Dog;
-import character.Pet;
+
+import main.java.character.Cat;
+import main.java.character.Dog;
+import main.java.character.Pet;
 
 public class ChooseCharacter extends Module{
     public ChooseCharacter() {

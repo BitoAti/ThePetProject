@@ -1,6 +1,7 @@
-package module;
+package main.java.module;
 
-import Game.InputHandler;
+
+import main.java.Game.InputHandler;
 
 public class WelcomePage extends Module{
     private InputHandler input = InputHandler.getInstance();

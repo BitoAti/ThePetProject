@@ -1,4 +1,4 @@
-package Game;
+package main.java.Game;
 
 public class OutputHandler {
 
